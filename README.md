@@ -5,6 +5,10 @@ Proxies
 Sessions [Minimum 20]
 Target ID
 ```
+## `WARNING` `⚠️`
+```
+Currently Getting Fixed
+```
 ## `RECOMMENDED PROXIES` `🌐`
 ```
 Free | https://proxyscrape.com/free-proxy-list
